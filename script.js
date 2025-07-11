@@ -27,17 +27,6 @@ const products = [
         category: "footwear"
     },
     {
-        id: 5,
-        name: "adidas Campus 00s Dark Green White (Kids)",
-        sku: "IH7492",
-        price: 60.00,
-        image: "https://img01.ztat.net/article/spp-media-p1/59c4a1cbd62d41159c75677e9a5fe869/afcb006d75f54509b4c62d431540fe03.jpg?imwidth=1800&filter=packshot",
-        sizes: [
-            { size: "36 2/3", qty: 1 }
-        ],
-        category: "footwear"
-    },
-    {
         id: 7,
         name: "adidas Campus 00s Grey Gum (Kids)",
         sku: "HQ6507",
@@ -45,6 +34,17 @@ const products = [
         image: "https://hypevision.pt/cdn/shop/files/campusgrey-front.jpg?v=1751637891",
         sizes: [
             { size: "36 2/3", qty: 2 }
+        ],
+        category: "footwear"
+    },
+    {
+        id: 5,
+        name: "adidas Campus 00s Dark Green White (Kids)",
+        sku: "IH7492",
+        price: 60.00,
+        image: "https://img01.ztat.net/article/spp-media-p1/59c4a1cbd62d41159c75677e9a5fe869/afcb006d75f54509b4c62d431540fe03.jpg?imwidth=1800&filter=packshot",
+        sizes: [
+            { size: "36 2/3", qty: 1 }
         ],
         category: "footwear"
     },
